@@ -7,6 +7,7 @@ TagManager:
   - Box
   - Trail
   - Food
+  - Book of Lore
   layers:
   - Default
   - TransparentFX
